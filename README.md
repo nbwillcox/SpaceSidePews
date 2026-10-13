@@ -18,6 +18,10 @@ Everything is generated in code: sprites are vector-drawn on the fly, and all so
 | Hyperspace (free-flight stages) | `H` |
 | Pause | `P` or `Esc` |
 
+### On a phone or tablet
+
+Play in landscape. A floating stick on the left flies the ship; on the right, **FIRE** (hold), **REV** reverses, **POWER** cashes in the power-up meter, **BOMB** and **HYPER**. The pause button opens the menu. The on-screen controls appear on touch devices automatically; Settings has size, opacity and a left-handed layout. Use your browser's *Add to Home Screen* to install it as a full-screen app.
+
 ## Gameplay
 
 - Stages alternate between two styles:
